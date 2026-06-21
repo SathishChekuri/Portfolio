@@ -21,7 +21,7 @@ A personal portfolio website showcasing my skills, projects, achievements and ex
 
 ## Live Demo
 
-sathishchekuri-portfolio.vercel.app
+Portfolio Website: https://sathishchekuri-portfolio.vercel.app
 
 ## Author
 
