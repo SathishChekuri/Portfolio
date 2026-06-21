@@ -14,8 +14,6 @@ window.addEventListener("scroll", () => {
         }
 
     });
-
-    // Bottom of page => Contact active
     if (
         window.innerHeight + window.scrollY >=
         document.documentElement.scrollHeight - 5
